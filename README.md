@@ -1,6 +1,6 @@
-# Setup
+# Tutorial
 
-Follow
+This is part of the [Jami Bot tutorial for Sending Automated Emails using NameCheap](https://youtu.be/Q4xnfPKEbQQ)
 
 # Auth
 
