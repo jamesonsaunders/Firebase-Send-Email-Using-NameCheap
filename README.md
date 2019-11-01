@@ -1,13 +1,13 @@
 # Firebase send email using namecheap
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Sending Automated Emails using NameCheap](https://youtu.be/Q4xnfPKEbQQ).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Sending Automated Emails using NameCheap](https://youtu.be/Q4xnfPKEbQQ).
 
 
 [![Sending Automated Emails using NameCheap](https://img.youtube.com/vi/Q4xnfPKEbQQ/maxresdefault.jpg)](https://youtu.be/Q4xnfPKEbQQ)
 
 A simple example of how to send emails using Namecheap and Firebase.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web & mobile development videos.
 
 ## Installation
 
